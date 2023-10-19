@@ -27,5 +27,5 @@ LeanSD包含了一系列代码仓库。
 
 ### 贡献者
 * 张刚  (gangz@emergentdesign.cn)
-* (欢迎加入)
+* 雷晓宝 (lxbzmy@gmail.com)
 
