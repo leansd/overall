@@ -46,8 +46,14 @@
 |         软件设计：从专业到卓越 [京东](https://item.jd.com/13239249.html) [豆瓣](https://book.douban.com/subject/35966115/)       |         大模型辅助软件开发：方法与实战 [京东](https://item.jd.com/14255955.html) [豆瓣](https://book.douban.com/subject/37010014/)       |
 
 
-### 贡献者列表
-{#contributors}
+### <a id="unique-id">贡献者列表</a>
+
+一个完整的项目涉及到方方面面。感谢如下的合作伙伴，
+让这个项目成为现实。
+
+另外，如果你在过程中发现需要改进的地方，请提交PR，
+让我们共同为软件工程行业的发展贡献力量。
+
 * 张刚  (gangz@emergentdesign.cn)
 * 雷晓宝（lxbzmy@gmail.com）
 * 李建 
